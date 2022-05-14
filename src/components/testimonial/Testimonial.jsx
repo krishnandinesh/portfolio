@@ -1,9 +1,9 @@
 import React from 'react'
 import './testimonial.css'
-import AVTR1 from '../../assets/Screenshot7.png'
-import AVTR2 from '../../assets/Screenshot8.png'
-import AVTR3 from '../../assets/Screenshot9.png'
-import AVTR4 from '../../assets/Screenshot10.png'
+import AVTR1 from '../../assets/avatar1.jpeg'
+import AVTR2 from '../../assets/avatar2.jpg'
+import AVTR3 from '../../assets/avatar3.jpg'
+import AVTR4 from '../../assets/avatar4.jpg'
 
 
 // import Swiper core and required modules

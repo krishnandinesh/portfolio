@@ -1,11 +1,11 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../assets/Screenshot1.png'
-import IMG2 from '../../assets/Screenshot2.png'
-import IMG3 from '../../assets/Screenshot3.png'
-import IMG4 from '../../assets/Screenshot4.png'
-import IMG5 from '../../assets/Screenshot5.png'
-import IMG6 from '../../assets/Screenshot6.png'
+import IMG1 from '../../assets/project1.jpg'
+import IMG2 from '../../assets/project2.jpg'
+import IMG3 from '../../assets/project3.jpg'
+import IMG4 from '../../assets/project4.jpg'
+import IMG5 from '../../assets/project5.jpg'
+import IMG6 from '../../assets/project6.jpg'
 
 const data = [
   {
@@ -25,30 +25,30 @@ const data = [
   {
     id: 3,
     image: IMG3,
-    title: 'Charts templates&infographics in Figma',
+    title: 'Eclipse - Figma dashboard UI kit for data design web apps',
     github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/16580766-Orion-UI-kit-Charts-templates-infographics-in-Figma'
+    demo: 'https://dribbble.com/shots/17610570-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps/attachments/12761503?mode=media'
   },
   {
     id: 4,
     image: IMG4,
-    title: 'Charts templates&infographics in Figma',
+    title: 'Eclipse - Figma dashboard UI kit for data design web apps',
     github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/16580766-Orion-UI-kit-Charts-templates-infographics-in-Figma'
+    demo: 'https://dribbble.com/shots/17393929-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps/attachments/12518792?mode=media'
   },
   {
     id: 5,
     image: IMG5,
-    title: 'Charts templates&infographics in Figma',
+    title: 'High-quality dashboard templates for startups',
     github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/16580766-Orion-UI-kit-Charts-templates-infographics-in-Figma'
+    demo: 'https://dribbble.com/shots/17096643-High-quality-dashboard-templates-for-startups/attachments/12188761?mode=media'
   },
   {
     id: 6,
     image: IMG6,
-    title: 'Charts templates&infographics in Figma',
+    title: 'Orion UI kit - Charts templates & infographics in Figma',
     github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/16580766-Orion-UI-kit-Charts-templates-infographics-in-Figma'
+    demo: 'https://dribbble.com/shots/17557610-Orion-UI-kit-Charts-templates-infographics-in-Figma/attachments/12702648?mode=media'
   }
 ]
 
